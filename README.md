@@ -1,11 +1,10 @@
 ## Olá eu sou o Tomás Costa
 Estou a trabalhar com:
 
--Python
 - HTML, CSS, JavaScript
 - Git e GitHub
 - Bases de dados (MySQL)
-
+- Python
 <!--
 **TomasCosta-hub/TomasCosta-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
