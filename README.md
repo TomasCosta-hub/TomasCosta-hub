@@ -1,4 +1,6 @@
-## - Python
+## Olá eu sou o Tomás Costa
+Estou a trabalhar com:
+-Python
 - HTML, CSS, JavaScript
 - Git e GitHub
 - Bases de dados (MySQL)
